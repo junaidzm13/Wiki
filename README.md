@@ -10,7 +10,7 @@ Each encyclopedia entry has its own page and it can be viewed by visiting the en
 
 In practice, it would start to get tedious if every page on Wikipedia had to be written in HTML. Instead, it is much more helpful to store encyclopedia entries using a lighter-weight human-friendly markup language. Wikipedia happens to use a markup language called Wikitext, but for this project we store encyclopedia entries using a markup language called Markdown.
 
-Read through GitHub’s Markdown guide to get an understanding for more information and how Markdown’s syntax works.
+Read through [GitHub’s Markdown guide](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax) to get an understanding for more information and how Markdown’s syntax works.
 
 By having single Markdown file for each encyclopedia entry, we made our entries much more user-friendly to write and edit.
 
